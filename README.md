@@ -1,6 +1,7 @@
 # Clock Web Development Project
 
 A simple, responsive clock created using HTML, CSS, and JavaScript. The clock displays the current time and updates every second.
+![image](https://github.com/user-attachments/assets/3a9b2e0c-54f2-493d-b804-d4b5d2be1117)
 
 ## Features
 
